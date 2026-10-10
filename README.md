@@ -13,3 +13,5 @@ Electronics Engineer and Tech Enthusiast
 ### 🏅 Certifications
 
 [![Boot.dev Learn Git certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/ef278868-8698-48f0-ab3a-c2637e072756.jpeg?v=1790635162)](https://www.boot.dev/certificates/ef278868-8698-48f0-ab3a-c2637e072756)
+
+[![Boot.dev Learn Git 2 certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/d0ba0b5c-f547-454c-bcfa-a89d6c848782.jpeg?v=1791610705)](https://www.boot.dev/certificates/d0ba0b5c-f547-454c-bcfa-a89d6c848782)
