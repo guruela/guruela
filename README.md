@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Hi 👋! I'm Gurucharan Shivakumar</h1>
-  <p><strong>Electronics Engineer · Tech Enthusiast</strong></p>
 </div>
 
 ## whoami
